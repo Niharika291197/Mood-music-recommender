@@ -3,11 +3,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 💥Contributors :
 
-   * Shreyas.P.J , github: shreyaspj20
-
-   * Utsav Pati ,github: Utsavpati
  
 # 💥ABSTRACT :
 
