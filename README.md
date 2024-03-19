@@ -36,12 +36,6 @@
   * Pillow.
 
 
-![](final.gif)
-
-Alternatively, click on the link below to the video.
-
-https://youtu.be/F21sr08tg98
-
 # 💥HOW TO USE :
 
    * This application can be used by executing the run.py file which then opens up a GUI asking the user to enter the name of the artist.
